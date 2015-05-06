@@ -1,0 +1,6 @@
+framework module TestHelper {
+  umbrella header "TestHelper.h"
+
+  export *
+  module * { export * }
+}
