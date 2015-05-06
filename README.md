@@ -24,4 +24,6 @@ iOS端末外部からネットワークでiOSアプリにテストコマンド�
 ### telnetを使う
 
 	$ telnet ipaddr port
-	$ command
+	command0
+	command1
+
